@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m @techoxoxo
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Php
+- 👋 Hi, I’m @techoxoxo a Full stack Developer
+- 👀 I’m interested in ...Providing online solutions to those who want to bring their business online, Full Stack Developer
+- 🌱 I’m currently learning ...Blockchain, WEB3.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email:anuj114441@gmail.com , instagram:mr.geerish_26.10
 
